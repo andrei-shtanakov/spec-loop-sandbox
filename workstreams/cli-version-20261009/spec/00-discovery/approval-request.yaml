@@ -1,0 +1,11 @@
+schema: discovery-brief-approval-request/v1
+purpose: discovery-brief-approval
+brief: brief.md
+brief_self_hash: "sha256:fc416eb13b977b1c89fcd2db19c2f612d81c05823c4af6d83e253dd840c17d8b"
+policy:
+  repo: "andrei-shtanakov/approval-policy"
+  ref: "main"
+  path: "policy/approvers.env"
+  sha: "12d198fb4db9ed6fbb1c5b00af308eeb31e4ec22"
+run_id: "cli-version-20261009-9c3274"
+ws_id: "cli-version-20261009"
